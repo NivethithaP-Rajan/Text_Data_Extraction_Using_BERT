@@ -13,4 +13,4 @@ The main objectives include:
 - Extracting answers to questions like 'What is the initial franchise fee?'
 - Evaluating the extracted answers using 'Exact Match' and F1 score.
 
-All the text files are found in the folder 'Data'
+All the text files are found in the folder 'DLData'
