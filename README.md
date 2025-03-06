@@ -1,7 +1,7 @@
 # Text_Data_Extraction_Using_BERT
 
 This project focuses on analyzing a set of financial/legal text documents of franchise chains, 
-using Natural Language Processing (NLP) techniques and BERT to extract answers for questions. 
+using **Natural Language Processing (NLP)**, **Deep Learning techniques** and **BERT to extract answers for questions**. 
 
 The main objectives include: 
 - Visualizing frequently used words using word clouds. 
